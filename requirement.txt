@@ -1,0 +1,15 @@
+# Core data handling
+pandas
+numpy
+pyyaml
+
+# Visualization
+matplotlib
+seaborn
+streamlit
+
+# File and system utilities
+glob2
+
+
+
